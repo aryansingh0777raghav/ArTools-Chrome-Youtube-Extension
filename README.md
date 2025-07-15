@@ -2,6 +2,7 @@
 
 ArTools enhances your YouTube experience by offering:
 
+- 🎵 Audio Downloader
 - 🎬 Video Downloader  
 - 📸 Thumbnail Downloader  
 - 🔗 Easy-to-use popup interface  
